@@ -2,7 +2,7 @@
 
 How do you catch a fluent clinical note that changes the physician’s plan? In this fictional follow-up visit, an English draft doubles a medication dose and treats a three-month-old lab result as new. I review four claims against the original Portuguese dialogue.
 
-[Watch the 51-second walkthrough on GitHub](./Plexo_Clinical_AI_Demo.mp4) · [Watch in a browser](https://drcassiocaetano.com.br/clinical-ai)
+[Watch the 51-second walkthrough on GitHub](./Plexo_Clinical_AI_Demo.mp4)
 
 ## The consultation
 
@@ -34,4 +34,4 @@ The patient reports taking metformin XR 500 mg with dinner and has not started t
 I would give a new model version the Portuguese excerpt alone, then score its draft against the same four checks. A reviewer should be able to point to the words supporting each claim. A wrong current dose or treatment instruction blocks sign-off, even when the rest of the note reads well.
 
 **Cássio Caetano** · Physician in Brazil and founder of Plexo Clínico · CRM-SP 173.174 / CRM-GO 19.246  
-[Clinical AI portfolio and CV](https://drcassiocaetano.com.br/clinical-ai) · [LinkedIn](https://www.linkedin.com/in/c%C3%A1ssio-caetano-7307811a1/)
+[LinkedIn](https://www.linkedin.com/in/c%C3%A1ssio-caetano-7307811a1/)
